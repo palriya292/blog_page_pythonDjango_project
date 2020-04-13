@@ -1,0 +1,28 @@
+{% extends "entries/base.html" %}
+{% block content %}
+      <div class="col-md-8">
+        <div class="card mb-4 mt-4">
+          <div class="card-header">
+            Login to your Account
+          </div>
+          <div class="card-body">
+            <form method="POST">
+                {% csrf_token %}
+                {{form.as_p}}
+                <button type="submit" class="btn btn-primary" style="font-family:comic sans ms">Login</button>
+            </form>
+
+              <p>
+
+              </p>
+
+            <form action="http://127.0.0.1:8000/users/register">
+                <button class="btn btn-primary" type="submit" style="font-family:comic sans ms">Register here</button>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+{% endblock %}

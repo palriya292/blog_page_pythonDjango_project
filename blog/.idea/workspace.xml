@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4908f58-ee55-4de3-b271-c1735a05c7ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yh4ot4HqLxLJKrbCdbtGDxRYuL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entries/templates/entries" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laddu\blog\entries\templates\entries" />
+      <recent name="C:\Users\laddu\blog\users\templates\users" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4908f58-ee55-4de3-b271-c1735a05c7ee" name="Default Changelist" comment="" />
+      <created>1583381669575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583381669575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="245" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586692892436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="245" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1586692892436" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1586692891327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586692891327" />
+    <state x="270" y="52" key="SettingsEditor" timestamp="1583400343689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="52" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583400343689" />
+    <state x="451" y="13" width="634" height="798" key="find.popup" timestamp="1583433449837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="13" width="634" height="798" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1583433449837" />
+  </component>
+</project>
